@@ -1,4 +1,8 @@
 # SEU-courses
 大学四年整理的资料（完善中……）
 ## 浏览方式
-没有VPN的同学可以用“Steam++”这款软件，在微软等应用商店都有下载
+- 用VPN，参考[此网站](ikuuu.live)
+- 用“Steam++”这款软件，在微软等应用商店都有下载
+- 下载插件[GitHub加速](https://chrome.zzzmh.cn/info/ffjjnphohkfckeplcjflmgneebafggej)
+## 说明
+本人较忙，后续资料会慢慢上传，如有紧急需求直接[联系我](1443938036@qq.com)
