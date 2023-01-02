@@ -1,7 +1,7 @@
 # SEU-courses
 大学四年整理的资料（完善中……）
 ## 浏览方式
-- 用VPN，参考[此网站](ikuuu.live)
+- 用VPN，参考[ikuuu.live](https://ikuuu.dev/user)
 - 用“Steam++”这款软件，在微软等应用商店都有下载
 - 下载插件[GitHub加速](https://chrome.zzzmh.cn/info/ffjjnphohkfckeplcjflmgneebafggej)
 ## 说明
