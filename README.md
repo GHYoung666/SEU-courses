@@ -7,7 +7,7 @@
 
 最后，也是希望大家能发挥一下电类人可贵的开源精神，一起帮助一下后来的学生。
 ## 浏览方式
-- 用VPN，参考[ikuuu.live](https://ikuuu.dev/user)
+- 用VPN，参考[ikuuu.live](https://ikuuu.eu)
 - 用“Steam++”这款软件，在微软等应用商店都有下载
 - 下载插件[GitHub加速](https://chrome.zzzmh.cn/info/ffjjnphohkfckeplcjflmgneebafggej)
 ## 说明
